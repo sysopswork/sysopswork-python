@@ -1,6 +1,6 @@
 # SysOpsWork
 
-**SysOpsWork** python package is used to simplify communication with SysOpsWork (https://sysopswork.com) system.
+**SysOpsWork** python package is used to simplify communication with [Link text](https://example.com){:target="_blank" rel="noopener noreferrer"} system.
 
 ## Installing SysOpsWork
 
