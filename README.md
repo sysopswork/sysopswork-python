@@ -1,14 +1,16 @@
 # SysOpsWork
 
-**SysOpsWork** python package is used to simplify communication with [SysOpsWork] (https://sysopswork.com) system.
+**SysOpsWork** python package is used to simplify communication with SysOpsWork (https://sysopswork.com) system.
 
 ## Installing SysOpsWork
 
-SysOpsWork is available on PyPI. Most of the time, SysOpsWork ptyhon package will be installed as part of a Dockerfile:
+SysOpsWork is available on PyPI. SysOpsWork python package is installed as part of a Dockerfile:
 
 ```console
 RUN pip3 install sysopswork
 ```
+
+The command might differ depending on the container image used.
 
 SysOpsWork officially supports Python 3.9+.
 
